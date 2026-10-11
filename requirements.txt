@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+asyncpg
+redis
+pydantic[email]
+pydantic-settings
